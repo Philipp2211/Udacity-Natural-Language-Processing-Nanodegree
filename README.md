@@ -4,4 +4,8 @@ This repository contains all the tutorials and my solutions to the projects of t
 
 [Link to course page](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
 
+## Setup Workspace
+
+[https://github.com/udacity/AIND-NLP](https://github.com/udacity/AIND-NLP)
+
 
