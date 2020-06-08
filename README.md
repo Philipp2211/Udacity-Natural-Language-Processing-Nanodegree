@@ -1,11 +1,12 @@
 # Udacity-Natural-Language-Processing-Nanodegree
 
-This repository contains all the tutorials and my solutions to the projects of the Udacity Natural Langage Processing Nanodegree.
+This repository contains all my solutions to the tutorials and projects of the Udacity Natural Language Processing Nanodegree.
 
 [Link to course page](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
 
-## Setup Workspace
+## Workspace
 
-[https://github.com/udacity/AIND-NLP](https://github.com/udacity/AIND-NLP)
+For all the tutoraials and projects I used the provided and preconfigured workspaces of Udacity.
+
 
 
